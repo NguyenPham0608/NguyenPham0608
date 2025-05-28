@@ -1,4 +1,7 @@
-<b>Hello! 🚀</b>
-• I am currently working on ChopChopMol 2.0, a GUI to visualize molecules, and generate them with AI. 🔥
-• Learning HTML, Javascript, and Python.
-• How to reach me: nguyenpham0806@gmail.com 📫
+<h1>Hello! 🚀</h1>
+
+- I am working on ChopChopMol 2.0 surprise! 🔥
+- I code in Javascipt, and Python 🌍
+- Email: nguyenpham0806@gmail.com 📫
+- Explore!
+
