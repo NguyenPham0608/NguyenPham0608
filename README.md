@@ -3,5 +3,6 @@
 - I am working on ChopChopMol 2.0 surprise! 🔥
 - I code in Javascipt, and Python 🌍
 - Email: nguyenpham0806@gmail.com 📫
+- Main Projects: https://nguyenpham0608.github.io/portfolio/
 - Explore!
 
